@@ -1,0 +1,47 @@
+.navigation-button{
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.navigation-button:hover {
+    background-color: #199221;
+    color: white; 
+}
+
+.info-box{
+    border-radius: 8px;
+    width: 100%;   
+}
+
+.box-descrip{
+    height: 90%;
+    border-radius: 8px;
+}
+
+.column1{
+    width: 50%;
+    height: 50px;
+}
+
+.column2{
+    height: 50px;
+}
+
+.row3{
+    height: 60px;
+}
+
+.columnDescription{
+   height: 90px;
+
+}
+
+
+

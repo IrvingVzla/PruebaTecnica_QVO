@@ -1,0 +1,45 @@
+
+    .task-button {
+        background-color: rgb(248, 105, 105);
+        border: none;
+        color: white;
+        padding: 8px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 10px;
+    }
+
+    .task-button.completed {
+        background-color: #4CAF50; 
+        color: white; 
+    }
+
+    .task-button:hover {
+    background-color: rgb(240, 36, 46);
+    color: white;
+
+    }
+
+    .task-button.completed:hover {
+        background-color: #199221;
+        color: white; 
+    }
+
+    .navigation-button{
+        background-color: #4CAF50; 
+        border: none;
+        color: white;
+        padding: 8px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 10px;
+    }
+
+    .navigation-button:hover {
+        background-color: #199221;
+        color: white; 
+    }
